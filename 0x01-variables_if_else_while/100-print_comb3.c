@@ -32,7 +32,7 @@ int main(void)
 		}
 		digit1++;
 	}
-	putchar('\n');
+	puchar('\n');
 
 	return (0);
 }
