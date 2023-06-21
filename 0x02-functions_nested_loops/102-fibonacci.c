@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Description: prints the firt 50 fibonacci numbers
  *              starting with 1 and 2 folled by new line
@@ -27,6 +27,5 @@ int main(void)
 		else
 			printf(", ");
 	}
-
-	return (0);					
-}	
+	return (0);
+}
