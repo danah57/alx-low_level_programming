@@ -1,11 +1,10 @@
 #include "main.h"
 
-/*
+/**
  * print_array - prints n elements of an array of integers.
  *
  * @n: elements parameter input
  * @a: string parameter input
- * Description: numbers should be displayed in the same order as they are stored in the array
  *
  * Return: Nothing
 */
