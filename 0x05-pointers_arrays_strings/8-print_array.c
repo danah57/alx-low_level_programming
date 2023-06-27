@@ -5,6 +5,7 @@
  *
  * @n: elements parameter input
  * @a: string parameter input
+ * Description: numbers should be displayed in the same order as they are stored in the array
  *
  * Return: Nothing
 */
