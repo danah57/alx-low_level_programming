@@ -3,7 +3,7 @@
 /**
  * _sqrt_recursion - find natural square root
  * @n: int
- * @var: square root
+ * @val: square root
  * Return: int
 */
 int square(int n, int val);
